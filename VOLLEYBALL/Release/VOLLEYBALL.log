@@ -1,0 +1,13 @@
+﻿  Main.cpp
+Main.cpp(29): warning C4305: =: усечение из "double" к "float"
+Main.cpp(30): warning C4305: =: усечение из "double" к "float"
+Main.cpp(45): error C2062: тип "double" не требуется
+Main.cpp(47): error C2065: uskorenie: необъявленный идентификатор
+Main.cpp(47): error C2664: "void sf::Transformable::move(const sf::Vector2f &)": невозможно преобразовать аргумент 1 из "int" в "const sf::Vector2f &"
+  Main.cpp(47): note: Причина: невозможно преобразовать "int" в "const sf::Vector2f"
+  Main.cpp(47): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+Main.cpp(104): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+Main.cpp(108): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+Main.cpp(123): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+Main.cpp(132): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+Main.cpp(161): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных

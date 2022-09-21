@@ -1,0 +1,11 @@
+﻿  Main.cpp
+c:\projects\cpp\volleyball\volleyball\main.cpp(29): warning C4305: =: усечение из "double" к "float"
+c:\projects\cpp\volleyball\volleyball\main.cpp(30): warning C4305: =: усечение из "double" к "float"
+c:\projects\cpp\volleyball\volleyball\main.cpp(47): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\projects\cpp\volleyball\volleyball\main.cpp(104): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\projects\cpp\volleyball\volleyball\main.cpp(108): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\projects\cpp\volleyball\volleyball\main.cpp(123): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\projects\cpp\volleyball\volleyball\main.cpp(132): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\projects\cpp\volleyball\volleyball\main.cpp(161): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+  VOLLEYBALL.vcxproj -> C:\projects\Cpp\VOLLEYBALL\Debug\VOLLEYBALL.exe
+  VOLLEYBALL.vcxproj -> C:\projects\Cpp\VOLLEYBALL\Debug\VOLLEYBALL.pdb (Partial PDB)
